@@ -1,1 +1,1 @@
-export let USER_API: string = 'http://localhost:8080/';
+export let USER_API: string = 'https://backend-wn4g.onrender.com';
